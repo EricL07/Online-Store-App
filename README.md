@@ -30,12 +30,10 @@ Future Improvements
 - Deploy backend with more robust database
   
 APP HOME SCREEN  
-![App Home Screen](assets/images/Screenshot%202025-08-26%20165058.png) ![App Home Screen](assets/images/Screenshot%202025-08-26%20165125.png)
+![App Home Screen](assets/images/Screenshot%202025-08-26%20165058.png) ![App Home Screen](assets/images/Screenshot%202025-08-26%20165125.png) ![App Home Screen](assets/images/Screenshot%202025-08-26%20165151.png)
 
 
 SHOPPING CART PAGE
 
 
 ORDER HISTORY PAGE
-
-![App Home Screen](assets/images/Screenshot%202025-08-26%20165151.png)
