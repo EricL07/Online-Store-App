@@ -28,5 +28,14 @@ Future Improvements
 - Add product reviews
 - Dark mode support
 - Deploy backend with more robust database
-
+  
+APP HOME SCREEN  
 ![App Home Screen](assets/images/Screenshot%202025-08-26%20165058.png)
+
+
+SHOPPING CART PAGE
+![App Home Screen](assets/images/Screenshot%202025-08-26%20165125.png)
+
+
+ORDER HISTORY PAGE
+![App Home Screen](assets/images/Screenshot%202025-08-26%20165151.png)
