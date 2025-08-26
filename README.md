@@ -28,3 +28,5 @@ Future Improvements
 - Add product reviews
 - Dark mode support
 - Deploy backend with more robust database
+
+![Alt text]("C:\Users\34164\rn-shop\assets\images\Screenshot 2025-08-26 165058.png")
