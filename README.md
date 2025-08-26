@@ -29,4 +29,4 @@ Future Improvements
 - Dark mode support
 - Deploy backend with more robust database
 
-![App Home Screen](assets/images/Screenshot)
+![App Home Screen](assets/images/Screenshot_2025-08-26_165058.png)
